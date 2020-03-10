@@ -1,0 +1,426 @@
+a b r 
+a c h 
+a d u r n a 
+ä e n o r a 
+a g a e t í 
+a g a e t í   b l ö d h r e n 
+a g a e t r a 
+a í 
+a i e d a i l 
+a k r 
+a l a l ë a 
+a l d a n a r í 
+ä l f a 
+ä l f a k y n 
+ä l f i n n 
+ä l f r 
+a l g a r a 
+a l l r 
+a n d a s k 
+a n d l á t 
+a p t r 
+á r 
+a r g e t 
+a r g e t l a m 
+a r t o s 
+a r ú n d 
+á s t a r 
+a s t o r í 
+ä t h a l v a r d 
+ä t h r 
+a t r a 
+a u d r 
+a u g a 
+a u r b o d a 
+b a n í 
+b a k 
+b e o r 
+b i d j a 
+b i t a 
+b i t r 
+b j a r t r 
+b j a r t s k u l a r 
+b j a r t s t á l 
+b l ä d r 
+b l a k a 
+b l a n d a 
+b l a u t r 
+b l e i k r 
+b l i n k n a 
+b l ö d h 
+b l ö d h g a r m 
+b l ö d h r e n 
+b l ö t h r 
+b l u n d a 
+b o e t k 
+b ö l l r 
+b r a k k a 
+b r e o a l 
+b r i s i n g r 
+b r u n 
+b u r t h r 
+c e l ö b r a 
+c h e t o w ä 
+d a é d a 
+d a e r t 
+d a g 
+d a g s h e l g r 
+d a r m t h r e l l 
+d a t i a 
+d a u f r 
+d a u t h d a e r t 
+d a u t h í 
+d a u t r 
+d a u t h l e i k r 
+d e l l i n g 
+d e l o i 
+d e l o i s 
+d e y j a 
+d o m i a   a b r   w y r d a 
+d o m i a 
+d r a h t r 
+d r a s 
+d r a u m r 
+d r e y m a 
+d r j u g r 
+d r ö t t n i n g 
+d r ö t t n i n g u 
+d r u k n a 
+d u 
+d u   f e l l s   n á n g o r ö t h 
+d u   f y r n   s k u l b l a k a 
+d u   n a m a r   a u r b o d a 
+“ d u   s i l b e n a   d a t i a ” 
+d u   s u n d a v a r   f r e o h r 
+d u   v ö l l a r   e l d r v a r y a 
+d u   w e l d e n v a r d e n 
+d ú m b r 
+d v e l j a 
+d v e r g r 
+d w e r v a 
+d w e r v a   t h i n d r 
+e b r i t h i l 
+e d d y r 
+e d t h a 
+e d o c ’ s i l 
+e d u r 
+e ï n r a d h i n 
+e i t h a 
+e k a 
+e k a r 
+e l d a 
+e l d h r i m n e r 
+e l d r v a r í 
+e l d u n a r í 
+e l l e s m é r a 
+e l r u n 
+e l t h r i m ó r n o 
+e m e n t y r 
+e o m 
+e r 
+e r i s d a r 
+e r o 
+e r n í 
+e r u 
+e s t e r n í 
+e t h g r í 
+e t h i l n a d r a s 
+e v a r í n a 
+e y d d r 
+e y r a 
+f a e l n i r v 
+f a i r t h 
+f e l l 
+f ë o n 
+f e t h r 
+f i n i a r e l 
+f i n n a 
+f j a n d í 
+f l a u g a 
+f l a u t j a 
+f l a u t r 
+f l u t n i n g r 
+f ó d h r 
+f ö r n 
+f o r t h a 
+f r a 
+f r a m 
+f r a m v í r 
+f r ë m a 
+f r e o h r 
+f r e t h y a 
+f r i c a i 
+f r i c a i   a n d l á t 
+f u i n 
+f y r n 
+g a l a 
+g a l b a 
+g a l b a t o r i x 
+g a l d r 
+g á n g a 
+g a r m 
+g a r j z l a 
+g a t a 
+g a t h 
+g e d w ë y 
+g e d w ë y   i g n a s i a 
+g ë u l o t h 
+g r a t h r 
+g r i n d 
+g u l i ä 
+h a e d h 
+h a f r 
+h a f r í 
+h a i n a 
+h a l d 
+h a l d t h i n 
+h a m a r r 
+h a r m r 
+h á v r 
+h e i l l 
+h e l g r i n d 
+h e r d t h a 
+h e r n s k j a 
+h j a l l 
+h j a r t a 
+h l a u p a 
+h l j ö d h r 
+h ó r n a 
+h r ö s l v a l h r 
+h r ú t h r 
+h r y g r 
+h ü g i n 
+h u g r 
+h u i l d r 
+h u r d h 
+h v a s s 
+h v a t 
+h v i t r 
+h w a l 
+i e t 
+i e t d a r 
+i g n a s i a 
+i k o n o k a 
+i l i a 
+í l i a 
+i l i a n 
+i l l a 
+i l l r 
+í l l g r a t h r 
+i l u m a r o 
+i l u m ë o 
+i n d l v a r n 
+i s l i n g r 
+i s t a l r í 
+j i e r d a 
+k a l f í 
+k a r s t 
+k a u s t a 
+k e n n a 
+k e p p r 
+k n í f r 
+k o d t h r 
+k o n a 
+k ö n u n g r 
+k ó p a 
+k r e m j a 
+k u l d r 
+k v a e d h í 
+k v e r s t 
+k v e t h a 
+k v e y k v a 
+k v ï s t r 
+k y n n 
+l á d r i n 
+l a e s a 
+l a m 
+l á m a r a e 
+l a u f 
+l a u f s b l ä d r 
+l a u s t 
+l e t h r b l a k a 
+l e t h r 
+l e t t a 
+l i a n í 
+l i d u e n 
+l i d u e n   k v a e d h í 
+l í f 
+l í f a 
+l i t i l 
+l o i v i s s a 
+l o s n a 
+l o t h a 
+l u n a e a 
+m ä e 
+m a e l a 
+m a l m r 
+m a l t h i n a e 
+m a n i n 
+m a r 
+m e d h 
+m e n o a 
+m i d h r i n g 
+m ï n e n 
+m o i 
+m o r ’ r a n r 
+m u l a b r a 
+n a g z 
+n a i n a 
+n a l g a s k 
+n a n g o r ö t h 
+n a m 
+n a m a r 
+n é 
+n é i a t 
+n e n 
+n ï d h w a l 
+n i e r n e n 
+n o s u 
+n u a n e n 
+o 
+o n o 
+o n r 
+o r g e t o r i x 
+o r o 
+o r o t h r i m 
+o r p i n n 
+o r p i n 
+o r r 
+o r ú m 
+o s t h a t o 
+o s t h a t o   c h e t o w ä 
+o t h 
+o t h e r ú m 
+p ö m n u r i a 
+r a e h t a 
+r a k r 
+r a m r 
+r a u d h r 
+r a u t h r 
+r e i s a 
+r e n 
+r e x t u g e n o s 
+r ï s a 
+r i s t v a k ’ b a e n 
+r u n e 
+s é 
+s e i t h r 
+s e m 
+s h a r j a l v í 
+s h u r ’ t u g a l 
+s i l b e n a 
+s i t j a 
+s j a 
+s j o n 
+s k a g a 
+s k a g í 
+s k a l 
+s k a l d 
+s k á l p r 
+s k i l n a   b r a g h 
+s k ö l i r 
+s k ö l i r o 
+s k u l 
+s k u l b l a k a 
+s k u t a 
+s k y r t a 
+s l á e g r 
+s l a u t a 
+s l y t h a 
+s n a l 
+s n a l g l í 
+s o l u s 
+s ö n g r 
+s t á l 
+s t e n r 
+s t j a r n a 
+s t y d j a 
+s u n d 
+s u n d a v r 
+s u n d a v r b l a k a 
+s v a r t r 
+s v e l l 
+s v e n 
+s v e r d 
+s v i t 
+s v i t - k o n a 
+t a e l d a 
+t a k a 
+t a l o s 
+t a u t h r 
+t h a e 
+t h a e f a t h a n 
+t h a r 
+t h ä e t 
+t h e i r r a 
+t h e l d u i n 
+t h e r r 
+t h e y n a 
+t h i n 
+t h i n d r 
+t h ö n 
+t h o r n a 
+t h o r n e s s a 
+t h o r t a 
+t h r a u t h a 
+t h r e y j a 
+t h r í f a 
+t h r í f a s k 
+t h r i n g a 
+t h r y s t a 
+t h u r r a 
+t h v e r r 
+t i t l i n g r 
+t o g i r a 
+t o g i r a   i k o n o k a 
+t r a e v a m 
+t u a t h a 
+t u a t h a   d u   o r o t h r i m 
+u 
+u n 
+u n d 
+u n d i r 
+u n i n 
+v a e 
+v a e n g r 
+v a e r 
+v a e r   e t h i l n a d r a s 
+v a e t n a 
+v a k n a 
+v a l d 
+v a l d r 
+v a n d r 
+v a n t a 
+v a n y a l í 
+v a r a 
+v a r d 
+v a r d a 
+v a r d e n 
+v a r d i 
+v a u p n a 
+v e l 
+v ë o h t 
+v é r 
+v e r c i n g e t o r i x 
+v e r d a 
+v e r g a n d í 
+v e r g a r í 
+v e r g a t h o s 
+v e r k r 
+v e r m a 
+v e r r u n s m a l 
+v e r v a d a 
+v i n d r 
+v i n r 
+v i n r   ä l f a k y n 
+v o d h r 
+v ö k 
+v ö l l r 
+v ö n d r 
+v o r 
+v r a n g r 
+w a í s e 
+w e l d e n 
+w e o h n a t a 
+w e o h n a t a í 
+
